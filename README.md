@@ -1,2 +1,2 @@
-# mi-primer-repositorio-freeCodeCamp
+# mi-primer-README
 Primer repositorio bajo la guía de Stefanía
